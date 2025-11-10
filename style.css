@@ -1,6 +1,6 @@
 html, body, div { margin: 0; padding: 0; border: 0 none; }
-@font-face { font-family: 'LibertinusMono'; src: url('./LibertinusMono.ttf') format('truetype'); font-weight: normal; font-style: normal; }
-@font-face { font-family: 'Danfo'; src: url('./Danfo.ttf') format('truetype'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'LibertinusMono'; src: url('./fonts/LibertinusMono.ttf') format('truetype'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'Danfo'; src: url('./fonts/Danfo.ttf') format('truetype'); font-weight: normal; font-style: normal; }
 body { font-family: LibertinusMono, sans-serif; background-image: url("./bg/index.jpg"); background-repeat: repeat; background-size: 100% auto; }
 
 #container { width: 960px; height: auto; margin: 25px auto; background-color: #180925; border: 3px solid #fff; padding: 30px; color: white; box-shadow: 0 0 30px 0 black; }
