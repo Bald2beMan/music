@@ -16,6 +16,7 @@ body { font-family: LibertinusMono, sans-serif; background-image: url("./bg/inde
 #frame { font-family: serif-sans; border: 1px solid white; max-width: 55ch; padding: 10px; background-color: #22290D; text-align: justify; }
 
 a { text-decoration: none; color: lightblue; }
-a:hover { font-style: italic; }
+a:hover { text-decoration: wavy underline; }
 a:visited { color: lightblue; text-decoration: inherit; }
+a.current { color: black; background-color: lightblue; }
 h1 { font-family: Danfo, sans; letter-spacing: 15px; background-color: yellow; color: black; text-align: center;}

@@ -9,6 +9,7 @@ hr { border: 0; border-top: 1px solid black; margin: 20px; }
 #nav { font-family: SpecialGothic, sans-serif; }
 #thoughts { text-align: justify; }
 a { text-decoration: none; color: lightblue; }
-a:hover { font-style: italic; }
+a:hover { text-decoration: wavy underline; }
 a:visited { color: lightblue; text-decoration: inherit; }
+a.current { color: black; background-color: lightblue; }
 h1 { font-family: Danfo, sans; letter-spacing: 15px; background-color: yellow; color: black; text-align: center;}
